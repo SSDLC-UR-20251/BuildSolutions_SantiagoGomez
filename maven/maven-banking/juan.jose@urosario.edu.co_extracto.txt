@@ -1,0 +1,14 @@
+Extracto bancario para: juan.jose@urosario.edu.co
+
+Fecha: 2025-02-11 14:17:21.921536
+Monto: 50
+Descripción: Deposit
+
+Fecha: 2025-02-15 10:30:15.123456
+Monto: -20
+Descripción: Withdrawal
+
+Fecha: 2025-02-20 09:45:30.654321
+Monto: 200
+Descripción: Deposit
+

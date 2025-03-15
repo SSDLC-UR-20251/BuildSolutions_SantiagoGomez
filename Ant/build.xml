@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<project name="PythonProject" default="run">
+
+   <!-- Definir el target principal -->
+   <target name="run">
+      <!-- Ejecutar el script Python -->
+      <exec executable="python">
+         <!-- Argumentos: El nombre de tu archivo Python -->
+         <arg value="main.py"/>
+         <arg value="5"/>
+      </exec>
+   </target>
+
+</project>
